@@ -1,7 +1,8 @@
 <H1 align=center> 💻 Pesquisa GIT🐱
 <h1 align="center"> Bem vindo ao meu Repositório </h1>
   
-# **Projetinho** :D 
+<h1 align="center"> # **Projetinho** :D </h1>
+
 
 - abacate
 
