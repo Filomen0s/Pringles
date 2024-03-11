@@ -1,4 +1,4 @@
-<H1 aling=center> 💻 Pesquisa 🐱
+<H1 align=center> 💻 Pesquisa 🐱
 <h1 aling=center> Bem vindo ao meu Repositório </H1>
   
 <h1> projetinho :D </H1>
