@@ -12,7 +12,7 @@
 
 # 🔨 Comandos e funcionalidades
 
-- 🤓 `"git branch":` ria novas branches. Mas também pode funcionar como uma forma de verificar as ramificações já existentes.
+- 🤓 `"git branch":` Cria novas branches. Mas também pode funcionar como uma forma de verificar as ramificações já existentes.
 - 🤓 `git status":` Esse comando esclarece quais arquivos foram alterados e faz uma comparação com relação à ramificação principal.
 - 🤓 `"git checkout":` O objetivo dele é fazer a pessoa programadora mudar de branch.
 - 🤓 `"git rm":` O git rm é um comando muito útil para remover arquivos do git e parar de monitorá-los, ou seja, de associá-los ao repositório. 
